@@ -1,0 +1,95 @@
+
+header {
+	width: 100%;
+	margin-bottom: 30px;
+	text-align: center;
+	font-size: 2em;
+	padding: 30px;
+	background: linear-gradient(to top, #ffffff 0%, #ffd400 100%);
+	font-family: 'Lilita One';
+}
+
+
+
+		.select {
+			width: 100%;
+			margin: 7px;
+			text-align: center;
+			padding: 10px;
+			font-size: 1.1em;
+			border-radius: 25px;
+			
+			
+		}
+		
+		.select p:first-child {
+			font-weight: bold;
+		}
+		
+		.Playeractive {
+			 background: linear-gradient(to bottom right, black 0%, #ffd400 100%);
+			border: 3px solid black;
+			color: white;
+		}
+		
+		.unActive {
+			background-color: #909090;
+			border: 3px solid transparent;
+		}
+		
+		.plus {
+			background-color: LightGray;
+		border: 2px solid green;
+		border-collapse: collapse;
+		}
+
+			
+		.minus {
+			background-color: LightGray;
+			border: 2px solid red;
+			border-collapse: collapse;
+		}
+		
+		.btn {
+			font-size: 2em;
+		}
+		
+		.points {
+			margin-top: 20px;
+			margin-bottom: 15px;
+		}
+		
+		
+		#results {
+			font-size: 1.3em;
+			word-spacing: 15px;
+			font-family: 'Shanti';
+			font-weight: bold;
+			
+		}
+		
+		.Options {
+			margin-bottom: 15px;
+		}
+		
+		
+		.pos {
+			color: green;
+		}
+		
+		.neg {
+			color: red;
+		}
+		
+		input[type='radio'] {
+			transform: scale(2);
+			margin: 10px;
+		}
+		
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
